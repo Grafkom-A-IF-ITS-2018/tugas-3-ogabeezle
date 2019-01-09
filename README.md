@@ -13,3 +13,17 @@ Rabu, 12 Desember 2018, 23.00 WIB
 ## Referensi
 * [GL-Matrix](http://glmatrix.net/docs/)
 * [Computer Mouse Control on WebGL Application](https://www.tutorialspoint.com/webgl/webgl_interactive_cube.htm)
+
+# Scoring
+
+## Statistics
+| WORKING TIMELINE | Total Commit |
+| :--------------- | :----------: |
+| 13 only          | 1            |
+
+## Scores
+| ASPECT             | Score |
+| :----------------- | :---: |
+| Work Results (80%) | 80    |
+| Repository (20%)   | 79    |
+| **OVERALL**        | 79.80 |
